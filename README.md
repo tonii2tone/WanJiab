@@ -1,3 +1,2 @@
 # WanJiab
-Hello 
-eiei
+โจอีงัว
